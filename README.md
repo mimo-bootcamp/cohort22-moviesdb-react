@@ -1,9 +1,9 @@
 # Mimo-Theatre-22
 Mimo Theatre 22 is searchable [React](http://facebook.github.io/react/index.html) app fetching data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
-<screenshot here>
+SCREENSHOT HERE
 
-## Demo
+## Demo [![Netlify Status](https://api.netlify.com/api/v1/badges/92b75313-df48-4932-93b9-485809f61776/deploy-status)](https://app.netlify.com/sites/movies-codestars/deploys)
 [mimo-theater-22.netlify.app](https://mimo-theater-22.netlify.app/)
 
 ## Technical Stack
