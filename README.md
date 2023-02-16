@@ -4,7 +4,7 @@ Mimo Theatre 22 is searchable [React](http://facebook.github.io/react/index.html
 <screenshot here>
 
 ## Demo
-Demo Link Here
+[mimo-theater-22.netlify.app](https://mimo-theater-22.netlify.app/)
 
 ## Technical Stack
 Key tools used in this React project are:
