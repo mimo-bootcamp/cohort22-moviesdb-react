@@ -2,8 +2,8 @@
 
 const Home = () => {
     return ( 
-        <section>
-            <h1>Home</h1>
+        <section className="home-section">
+            <h2>Home</h2>
         </section>
      );
 }

@@ -1,7 +1,7 @@
 const MovieDetails = () => {
     return ( 
-        <section>
-            <h1>Movie Details</h1>
+        <section className="moviedetails-section">
+            <h2>Movie Details</h2>
         </section>
      );
 }

@@ -4,11 +4,15 @@
     box-sizing: border-box;
 }
 
+/* Home page */
 
 
 
+/* MovieDetails page */
 
 
+
+/* About page */
 
 
 
@@ -50,4 +54,8 @@ object-fit: cover;
 p.bio {
     text-align: center;
     padding: 8px 4px;
+}
+
+a.bio {
+    text-decoration: none;
 }
