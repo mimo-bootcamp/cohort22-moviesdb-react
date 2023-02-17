@@ -1,5 +1,5 @@
-# Mimo-Theatre-22
-Mimo Theatre 22 is searchable [React](http://facebook.github.io/react/index.html) app fetching data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
+# Movies CodeStars
+Movies CodeStars is searchable [React](http://facebook.github.io/react/index.html) app fetching data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
 SCREENSHOT HERE
 
