@@ -4,7 +4,7 @@ Mimo Theatre 22 is searchable [React](http://facebook.github.io/react/index.html
 SCREENSHOT HERE
 
 ## Demo [![Netlify Status](https://api.netlify.com/api/v1/badges/92b75313-df48-4932-93b9-485809f61776/deploy-status)](https://app.netlify.com/sites/movies-codestars/deploys)
-[movies-codestars.netlify.app](movies-codestars.netlify.app)
+[movies-codestars.netlify.app](https://movies-codestars.netlify.app)
 
 ## Technical Stack
 Key tools used in this React project are:
