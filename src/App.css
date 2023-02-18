@@ -24,6 +24,7 @@
   color: white;
 }
 
+<<<<<<< Updated upstream
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+=======
+a.bio {
+    text-decoration: none;
+}
+
+a.bio-icon {
+    text-decoration: none;
+    
+}
+>>>>>>> Stashed changes
