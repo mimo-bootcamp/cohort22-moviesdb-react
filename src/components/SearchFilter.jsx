@@ -1,7 +1,7 @@
 const SearchFilter = () => {
     return ( 
         <section className="search-filter">
-            <h3>Search Filter</h3>
+            <h3>Search Filter Component</h3>
         </section>
      );
 }

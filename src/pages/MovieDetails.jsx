@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Spinner from "../components/Spinner";
 
 const MovieDetails = () => {
     const [loading, setLoading] = useState(false);
@@ -15,7 +16,7 @@ const MovieDetails = () => {
 
     return ( 
         <>
-            { loading && <section className="loader-section">hello</section> }
+            { loading && <Spinner /> }
             { !loading && 
             <section className="moviedetails-section">
                 <h2>Movie Details</h2>
