@@ -2,7 +2,7 @@ const teamMembers = [
     {
         name: "Aaron Venema",
         pictureURL: "/assets/aaron.jpg",
-        bio: "While enjoying my leisure time, you’ll typically find me listening to audiobooks or podcasts centered around science/technology/history, or drenched in the sauna getting my daily hormesis.",
+        bio: "As a hardworking individual, I am dedicated to my work as a front-end developer. My creative nature allows me to excel in designing and implementing user-friendly websites and applications. My passion lies in creating visually appealing and interactive experiences for users.",
         website: "aaronvenema.com",
         websiteHref: "https://aaronvenema.com/",
         github: "https://github.com/anonymous-a-rod",
