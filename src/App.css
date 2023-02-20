@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+/* Main */
+main.container {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* PAGES FIRST, THEN COMPONENTS */
+
 /* Home page */
 
 
@@ -76,3 +85,24 @@ p.bio  {
 
 
 /* Error Page */
+
+
+/* Header */
+
+nav.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+nav.item{
+  display: inline;
+}
+
+
+/* Footer */
+
+/* Spinner */
+
+/* Search Filter */

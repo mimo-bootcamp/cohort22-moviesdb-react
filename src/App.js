@@ -10,7 +10,7 @@ import Error from './pages/Error';
 
 function App() {
   return (
-    <main>
+    <main className='container'>
       <Router>
         <Header />
         <Routes>
