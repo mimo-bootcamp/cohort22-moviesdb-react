@@ -1,9 +1,6 @@
 import data from "../data/bios"
 
 const Team = () => {
-
-
-
     return ( 
         <section className="team-section">
             <h2>Our Team</h2>
